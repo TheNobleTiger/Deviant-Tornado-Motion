@@ -1,5 +1,5 @@
 cm1runs is the directory of cm1 runs. currently inside you will find the following:
- - Defualt Runs (This is based purely on the standard cm1 runs with no changes made after compiling)
+ - Default Runs (This is based purely on the standard cm1 runs with no changes made after compiling)
  - elreno (This is simulating using a sounding sourced from the May 31 2013 El Reno tornadic event)
 
 .gitattributes:
